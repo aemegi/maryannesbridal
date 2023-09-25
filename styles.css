@@ -114,7 +114,7 @@ q {font-style: italic;}
 .author {color: cornflowerblue;} 
 
 a, a:hover, a:visited, a:active {
-  color:hotpink;
+  color:saddlebrown;
 }
 a, a.nav-link:hover, a:visited, a.nav-link:active {
 text-decoration: none !important; 
